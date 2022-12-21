@@ -1,0 +1,5 @@
+Procedural Generation Ideas:
+
+
+Multiple octave/persistance iteration - Generate multiple noise maps with increasing frequency and decreasing amplitude to layer into an island
+Include falloff map to ensure surrounded by water
